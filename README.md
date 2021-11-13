@@ -31,7 +31,7 @@ Method `POST`
 
 ```js
 {
-  "product_name": "SAUS Tomat",
+  "product_name": "IPhone X",
   "price": "922.00",
   "color": "lime",
   "department": "Electronics"
@@ -45,6 +45,17 @@ Method `PUT`
 ```js
 /products/:id
 ````
+
+`Body`
+
+```js
+{
+  "product_name": "IPhone 11",
+  "price": "922.00",
+  "color": "black",
+  "department": "Electronics"
+}
+```
 
 ### Delete Product
 
