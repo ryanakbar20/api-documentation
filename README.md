@@ -1,7 +1,7 @@
 ### ROOT API
 
 ```js
-https://618f1fd450e24d0017ce1601.mockapi.io/
+https://618f1fd450e24d0017ce1601.mockapi.io
 ```
 
 ### Get All Product
