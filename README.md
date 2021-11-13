@@ -27,6 +27,16 @@ Method `POST`
 ```js
 /products
 ````
+`Body`
+
+```js
+{
+  "product_name": "SAUS Tomat",
+  "price": "922.00",
+  "color": "lime",
+  "department": "Electronics"
+}
+```
 
 ### Edit Product
 
